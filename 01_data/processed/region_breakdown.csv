@@ -1,0 +1,4 @@
+gateway_region,total_transactions,total_gmv_usd,captured_count,failed_count,chargeback_count,avg_risk_score,high_risk_txns,high_value_txns,unique_merchants,unique_users,captured_gmv_usd,success_rate_pct,chargeback_ratio_pct,gmv_share_pct
+APAC,22,82754.49,15,5,2,65.5,7,6,2,10,63473.05,68.2,9.09,71.2
+EU,4,18913.04,2,1,1,47.2,1,1,2,4,8695.65,50.0,25.00,16.3
+US,4,14600.00,2,1,1,48.8,1,1,1,4,10300.00,50.0,25.00,12.6

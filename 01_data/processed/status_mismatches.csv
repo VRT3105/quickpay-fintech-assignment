@@ -1,0 +1,4 @@
+transaction_id,status_ledger,status_gateway,mismatch_note
+T007,chargeback,failed,Ledger: chargeback - Gateway: failed
+T012,captured,pending,Ledger: captured - Gateway: pending
+T018,chargeback,failed,Ledger: chargeback - Gateway: failed

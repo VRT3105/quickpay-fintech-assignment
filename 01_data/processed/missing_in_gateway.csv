@@ -1,0 +1,4 @@
+transaction_id,transaction_date,merchant_name,amount,currency,status,user_id,payment_method,missing_reason
+T025,2026-03-05,City Pharma,3043.48,EUR,captured,U005,UPI,Present in ledger - absent in gateway
+T027,2026-03-06,Delta Travels,7200.00,USD,captured,U007,Card,Present in ledger - absent in gateway
+T029,2026-03-06,Delta Travels,2500.00,USD,chargeback,U009,Wallet,Present in ledger - absent in gateway

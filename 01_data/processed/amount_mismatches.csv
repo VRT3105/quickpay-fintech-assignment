@@ -1,0 +1,5 @@
+transaction_id,amount_ledger,amount_gateway,amount_difference,difference_pct
+T005,4670.66,4764.07,-93.41,2.0
+T010,7305.39,7451.50,-146.11,2.0
+T015,1556.89,1588.03,-31.14,2.0
+T020,6227.54,6352.09,-124.55,2.0

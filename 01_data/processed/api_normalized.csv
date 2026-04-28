@@ -1,0 +1,12 @@
+transaction_id,transaction_date,merchant_name,status,risk_score,gateway_region,amount_usd,api_response_code,api_response_message,api_version,merchant_category,processing_fee_usd,net_amount_usd
+T001,2026-03-01,Alpha Mart,captured,62.0,APAC,5029.94,200,Payment successful,v2.1,Retail,75.45,4954.49
+T002,2026-03-01,Alpha Mart,captured,55.0,APAC,2514.97,200,Payment successful,v2.1,Retail,37.72,2477.25
+T003,2026-03-01,Beta Stores,captured,71.0,APAC,6107.78,200,Payment successful,v2.1,Retail,91.62,6016.16
+T004,2026-03-01,Beta Stores,failed,68.0,APAC,1916.17,200,Payment failed,v2.1,Retail,28.74,1887.43
+T005,2026-03-01,Alpha Mart,captured,58.0,APAC,4670.66,200,Payment successful,v2.1,Retail,70.06,4600.60
+T023,2026-03-05,City Pharma,captured,42.0,EU,5652.17,200,Payment successful,v2.1,Healthcare,84.78,5567.39
+T024,2026-03-05,Eco Home,chargeback,65.0,EU,6630.43,200,Chargeback initiated,v2.1,Home and Living,99.46,6530.97
+T027,2026-03-06,Delta Travels,captured,49.0,US,7200.00,200,Payment successful,v2.1,Travel,108.00,7092.00
+T028,2026-03-06,Delta Travels,captured,41.0,US,3100.00,200,Payment successful,v2.1,Travel,46.50,3053.50
+T029,2026-03-06,Delta Travels,chargeback,58.0,US,2500.00,200,Chargeback initiated,v2.1,Travel,37.50,2462.50
+T030,2026-03-06,Delta Travels,failed,47.0,US,1800.00,200,Payment failed,v2.1,Travel,27.00,1773.00

@@ -1,0 +1,6 @@
+merchant_name,region,total_transactions,total_gmv_usd,avg_transaction_usd,captured_count,failed_count,chargeback_count,avg_risk_score,max_risk_score,high_risk_txns,high_value_txns,unique_users,captured_gmv_usd,success_rate_pct,chargeback_ratio_pct,risk_tier
+Beta Stores,APAC,11,41796.41,3799.67,7,3,1,69.4,86.0,5,3,8,33353.29,63.6,9.09,High
+Alpha Mart,APAC,11,40958.08,3723.46,8,2,1,61.2,83.0,2,3,7,30119.76,72.7,9.09,High
+Delta Travels,US,4,14600.00,3650.00,2,1,1,48.8,58.0,1,1,4,10300.00,50.0,25.00,Medium
+Eco Home,EU,2,10217.39,5108.70,0,1,1,54.5,65.0,1,1,2,0.00,0.0,50.00,Medium
+City Pharma,EU,2,8695.65,4347.82,2,0,0,40.0,42.0,0,0,2,8695.65,100.0,0.00,Low

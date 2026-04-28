@@ -1,0 +1,4 @@
+transaction_id,transaction_date,merchant_name,amount,currency,status,user_id,payment_method,missing_reason
+G001,2026-03-05,Alpha Mart,1250.00,USD,captured,U031,Card,Present in gateway - absent in ledger
+G002,2026-03-05,Beta Stores,3400.00,USD,captured,U032,UPI,Present in gateway - absent in ledger
+G003,2026-03-06,Delta Travels,8900.00,USD,failed,U033,Card,Present in gateway - absent in ledger
